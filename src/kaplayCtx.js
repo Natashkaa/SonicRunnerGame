@@ -1,4 +1,5 @@
-import kaplay from "kaplay";
+// import kaplay from "kaplay";
+import kaplay from "https://unpkg.com/kaplay@3001/dist/kaplay.mjs";
 
 const k = kaplay({
     width: 1920,
